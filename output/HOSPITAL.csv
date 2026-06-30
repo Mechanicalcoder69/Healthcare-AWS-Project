@@ -1,0 +1,501 @@
+HOSPITAL_ID,HOSPITAL_NAME,CITY,STATE,BED_COUNT,HOSPITAL_TYPE
+HSP00001,Wood-Garcia Medical Center,Johnshire,CA,421,Children
+HSP00002,Mendez-Kelly Medical Center,Howardland,FL,975,Teaching
+HSP00003,Hardy and Sons Medical Center,West Leonardport,AZ,849,Teaching
+HSP00004,"Todd, Navarro and Schaefer Medical Center",East Tracychester,FL,607,Specialty
+HSP00005,Hall-Waters Medical Center,Jeffreyport,TX,537,Specialty
+HSP00006,Price-Petty Medical Center,Port Jillianstad,PA,55,Specialty
+HSP00007,"Wilson, Morgan and Phelps Medical Center",Debraport,NY,136,Children
+HSP00008,"Sanchez, Andrews and Smith Medical Center",Robertstad,NY,314,Children
+HSP00009,Jefferson Ltd Medical Center,Butlerfort,OH,126,Community
+HSP00010,Green PLC Medical Center,Kathystad,CA,472,Acute Care
+HSP00011,Ruiz and Sons Medical Center,Cervantesmouth,PA,870,Specialty
+HSP00012,"Wilson, Thomas and Wagner Medical Center",Moralesburgh,FL,603,Community
+HSP00013,"Edwards, Smith and Anderson Medical Center",Victoriaberg,NC,223,Acute Care
+HSP00014,Schmitt-Dougherty Medical Center,Webbville,NY,900,Specialty
+HSP00015,"Hudson, Rodriguez and Lambert Medical Center",East Patrickfort,GA,110,Children
+HSP00016,"Henderson, Davidson and Schroeder Medical Center",Emilymouth,IL,888,Specialty
+HSP00017,Page PLC Medical Center,East Monica,OH,94,Teaching
+HSP00018,Marshall Ltd Medical Center,Morgantown,CA,494,Teaching
+HSP00019,"Gill, Campos and White Medical Center",West Ashley,GA,269,Children
+HSP00020,"Goodman, Macdonald and Lozano Medical Center",Wrightfurt,PA,282,Teaching
+HSP00021,"Brennan, Parker and House Medical Center",Michelleside,PA,681,Teaching
+HSP00022,Conley-Hill Medical Center,West Heatherhaven,PA,429,Children
+HSP00023,"Morris, Morris and Curtis Medical Center",Duncanhaven,GA,165,Acute Care
+HSP00024,Liu and Sons Medical Center,Saundersmouth,PA,802,Teaching
+HSP00025,"White, Robles and Robinson Medical Center",Lake Nathan,CA,715,Children
+HSP00026,"Porter, Valentine and Wilson Medical Center",Barnettbury,TX,663,Community
+HSP00027,Ruiz-Johnson Medical Center,Micheleshire,PA,983,Teaching
+HSP00028,Gomez-Parker Medical Center,North Philip,AZ,218,Teaching
+HSP00029,Good PLC Medical Center,Romeroport,GA,471,Children
+HSP00030,Curry-Vasquez Medical Center,Carolmouth,IL,299,Acute Care
+HSP00031,Aguilar-Guerra Medical Center,Kennethburgh,NC,710,Specialty
+HSP00032,Watson PLC Medical Center,Annamouth,PA,224,Teaching
+HSP00033,Melton Ltd Medical Center,Baxterton,NC,779,Specialty
+HSP00034,Jones-Mitchell Medical Center,Jacksonburgh,IL,650,Specialty
+HSP00035,Sullivan-Hill Medical Center,Alexaberg,FL,986,Teaching
+HSP00036,Brown-Zuniga Medical Center,Port Connorburgh,FL,989,Specialty
+HSP00037,Johnson-Allen Medical Center,New Christine,OH,372,Acute Care
+HSP00038,Boyd-Kerr Medical Center,Port Robertabury,GA,951,Acute Care
+HSP00039,Davis and Sons Medical Center,South Jimmybury,AZ,230,Specialty
+HSP00040,Pope LLC Medical Center,Millston,FL,434,Acute Care
+HSP00041,Shelton LLC Medical Center,Port Justinberg,PA,698,Acute Care
+HSP00042,"Martin, Roy and Tyler Medical Center",West Johnchester,NY,836,Teaching
+HSP00043,Werner-Villa Medical Center,Michaelbury,CA,551,Teaching
+HSP00044,Harper and Sons Medical Center,Yvetteberg,NC,947,Specialty
+HSP00045,"Flores, Orozco and Deleon Medical Center",Alexanderchester,NY,72,Community
+HSP00046,Garcia-Harris Medical Center,Brianberg,AZ,767,Specialty
+HSP00047,"Barton, Jordan and Steele Medical Center",Emmaville,OH,840,Teaching
+HSP00048,Douglas PLC Medical Center,Mendozaborough,PA,848,Teaching
+HSP00049,Cardenas Ltd Medical Center,Serranoshire,IL,824,Specialty
+HSP00050,Kelley Inc Medical Center,Parsonsshire,NC,164,Community
+HSP00051,Taylor and Sons Medical Center,North Brett,PA,73,Community
+HSP00052,"Miranda, Anderson and Gibson Medical Center",Rogerland,FL,60,Children
+HSP00053,Mendez LLC Medical Center,Port Emily,NY,365,Acute Care
+HSP00054,"Brown, Vasquez and Weiss Medical Center",Ronaldberg,GA,107,Children
+HSP00055,"King, Walker and Hunter Medical Center",Lake Johnfort,PA,716,Community
+HSP00056,Henry-Newton Medical Center,East Jesse,AZ,358,Specialty
+HSP00057,"Hernandez, Pratt and Patrick Medical Center",Port Michelleville,NC,919,Acute Care
+HSP00058,Murphy-King Medical Center,West Cynthiamouth,TX,806,Teaching
+HSP00059,Reese LLC Medical Center,East Tammyside,GA,993,Acute Care
+HSP00060,"Miller, Richardson and Henry Medical Center",Kimberlymouth,NC,433,Acute Care
+HSP00061,"Chambers, Zavala and Owen Medical Center",North Edward,AZ,295,Children
+HSP00062,Patrick LLC Medical Center,South Ericton,AZ,365,Specialty
+HSP00063,"Goodwin, Barnes and Lee Medical Center",Lake Rebeccaport,OH,527,Acute Care
+HSP00064,Wilson Group Medical Center,North Robert,GA,603,Teaching
+HSP00065,Hayes Ltd Medical Center,West Stacey,NY,862,Specialty
+HSP00066,"Murphy, Peters and Palmer Medical Center",Mitchellfort,TX,789,Teaching
+HSP00067,Jimenez LLC Medical Center,West Alanport,AZ,483,Specialty
+HSP00068,Spencer PLC Medical Center,Port Patrickview,TX,869,Community
+HSP00069,Peterson PLC Medical Center,Kimberlystad,OH,329,Specialty
+HSP00070,"Rice, Gonzales and Hernandez Medical Center",West Colleenport,AZ,810,Acute Care
+HSP00071,"Gamble, Brown and Richardson Medical Center",Amandatown,IL,179,Acute Care
+HSP00072,Bowman PLC Medical Center,Willismouth,NY,264,Children
+HSP00073,Alexander LLC Medical Center,Lake Bradytown,AZ,731,Acute Care
+HSP00074,Wilson-Henderson Medical Center,Hamiltonshire,PA,240,Community
+HSP00075,"Fitzpatrick, Reyes and Mcintyre Medical Center",Port Alyssabury,AZ,787,Community
+HSP00076,Hernandez-Jones Medical Center,Martinezfort,FL,288,Community
+HSP00077,Mills-Perez Medical Center,Rileyborough,OH,858,Teaching
+HSP00078,Johnston PLC Medical Center,Port Janetstad,AZ,410,Specialty
+HSP00079,Delacruz Ltd Medical Center,East Henryfort,AZ,783,Acute Care
+HSP00080,Duffy-Turner Medical Center,Andreaville,TX,537,Specialty
+HSP00081,"Robinson, Phillips and White Medical Center",New Ethantown,FL,407,Teaching
+HSP00082,"Horn, Gomez and Gomez Medical Center",South Seanchester,CA,796,Specialty
+HSP00083,Garner Inc Medical Center,Lake Bryanview,OH,76,Acute Care
+HSP00084,Cummings-Murray Medical Center,North Sarah,IL,336,Acute Care
+HSP00085,Rose Inc Medical Center,Jessicahaven,IL,830,Community
+HSP00086,Welch and Sons Medical Center,East Nicoleport,FL,837,Community
+HSP00087,Myers-Johnson Medical Center,Rhondamouth,PA,317,Specialty
+HSP00088,Davenport PLC Medical Center,Valdezfort,PA,738,Teaching
+HSP00089,"Harris, Booth and Montoya Medical Center",Bennettstad,PA,790,Children
+HSP00090,Jones Group Medical Center,Kristenville,IL,380,Teaching
+HSP00091,Miller LLC Medical Center,Port Kimberlyview,IL,644,Children
+HSP00092,Wright-Lee Medical Center,Johnsontown,FL,89,Teaching
+HSP00093,Silva LLC Medical Center,South Michelle,NC,699,Children
+HSP00094,Harris-Sanchez Medical Center,Matthewberg,PA,192,Specialty
+HSP00095,Harrison PLC Medical Center,Port Aliciaview,PA,826,Acute Care
+HSP00096,"Blankenship, Berger and Burton Medical Center",New Ericmouth,TX,928,Specialty
+HSP00097,"Banks, Shepherd and Stewart Medical Center",West Edwardfort,OH,795,Children
+HSP00098,Ramirez and Sons Medical Center,Lake Travismouth,IL,895,Specialty
+HSP00099,Garza Group Medical Center,West Allisonland,FL,957,Teaching
+HSP00100,"Perry, Palmer and Anderson Medical Center",West Luistown,AZ,536,Specialty
+HSP00101,Oconnor Ltd Medical Center,North Patriciaview,PA,547,Community
+HSP00102,"Hernandez, Mcmillan and Brown Medical Center",New Chadmouth,CA,411,Community
+HSP00103,Decker-Rodriguez Medical Center,Lake Victoriafurt,AZ,218,Teaching
+HSP00104,Martin-Clarke Medical Center,West Benjamin,NC,330,Community
+HSP00105,"Phillips, Perkins and Carr Medical Center",Michaelville,AZ,426,Specialty
+HSP00106,Allen-Mason Medical Center,Codyport,PA,276,Specialty
+HSP00107,Ross Ltd Medical Center,Lake Stephanie,NC,127,Children
+HSP00108,Reyes and Sons Medical Center,Angelamouth,IL,93,Acute Care
+HSP00109,Martinez Group Medical Center,Lake Mary,NY,404,Teaching
+HSP00110,"Brooks, Smith and Ramsey Medical Center",Jonathanborough,GA,159,Teaching
+HSP00111,Flynn-Scott Medical Center,Elijahchester,FL,160,Children
+HSP00112,Dunlap-Hurst Medical Center,Jonesview,OH,475,Specialty
+HSP00113,"Munoz, Wyatt and Clark Medical Center",South Phillipburgh,FL,665,Children
+HSP00114,Fox LLC Medical Center,New Jamiefort,AZ,935,Community
+HSP00115,Hodge-Thomas Medical Center,Port Rebecca,IL,603,Acute Care
+HSP00116,"Hodges, Choi and Conrad Medical Center",Kristopherfort,FL,934,Community
+HSP00117,"Bates, Kelly and Miller Medical Center",South Christopher,AZ,76,Specialty
+HSP00118,Bauer and Sons Medical Center,West Christina,NY,822,Specialty
+HSP00119,Jackson-Holmes Medical Center,Zunigaville,GA,261,Teaching
+HSP00120,Davies-Acosta Medical Center,Lake Jennifer,TX,161,Acute Care
+HSP00121,Mack-Wilson Medical Center,West Kiaraland,NY,430,Community
+HSP00122,Davis-Valencia Medical Center,New Susanton,TX,161,Specialty
+HSP00123,Buchanan-Haynes Medical Center,Timothyhaven,NY,448,Acute Care
+HSP00124,Hogan LLC Medical Center,Barronstad,AZ,671,Children
+HSP00125,Heath-Robles Medical Center,Garzafort,NY,884,Acute Care
+HSP00126,"Martin, Lane and Anderson Medical Center",Ianport,IL,791,Specialty
+HSP00127,"Benjamin, Harrington and Hunt Medical Center",West Jodyshire,OH,588,Children
+HSP00128,Thompson-Rodriguez Medical Center,Fitzpatrickshire,NC,984,Acute Care
+HSP00129,"Ward, Williams and Cortez Medical Center",South Brandon,CA,72,Teaching
+HSP00130,Weaver Group Medical Center,North Stevenland,AZ,340,Children
+HSP00131,Clayton-Evans Medical Center,North Colton,NY,133,Community
+HSP00132,Stanley-Kramer Medical Center,West Josephchester,NC,921,Specialty
+HSP00133,Herman Inc Medical Center,New Richard,FL,910,Children
+HSP00134,Larson-Miller Medical Center,West Emily,NC,222,Children
+HSP00135,Ochoa PLC Medical Center,North Karichester,NC,790,Acute Care
+HSP00136,"Reed, Wilson and Clark Medical Center",Nicoleberg,NC,96,Teaching
+HSP00137,West-Lewis Medical Center,Jenkinschester,IL,381,Acute Care
+HSP00138,Collins and Sons Medical Center,North Cynthia,PA,291,Teaching
+HSP00139,Stephens and Sons Medical Center,New Jessica,TX,137,Teaching
+HSP00140,Montgomery-Garcia Medical Center,Lake Jessicaborough,PA,832,Community
+HSP00141,Davis Ltd Medical Center,Whitemouth,NY,727,Children
+HSP00142,"Fletcher, Perez and Ruiz Medical Center",North Clintonborough,FL,705,Acute Care
+HSP00143,"Mosley, Herrera and Moore Medical Center",Nathanfort,OH,235,Children
+HSP00144,Powers-Rogers Medical Center,Georgehaven,FL,440,Specialty
+HSP00145,"Webb, Salazar and Williams Medical Center",West David,NY,262,Children
+HSP00146,Wheeler-Becker Medical Center,Jameshaven,OH,729,Specialty
+HSP00147,Adams-Elliott Medical Center,Lake Timothyland,AZ,994,Acute Care
+HSP00148,"Mcbride, Martin and Hendrix Medical Center",New Deborahhaven,NC,681,Specialty
+HSP00149,Conley LLC Medical Center,South Jamesview,NY,81,Specialty
+HSP00150,Sanchez PLC Medical Center,North Benjaminside,NC,143,Teaching
+HSP00151,"Black, Phelps and Shelton Medical Center",Pricestad,AZ,205,Community
+HSP00152,Lopez-Novak Medical Center,Ericland,NY,979,Teaching
+HSP00153,Hines and Sons Medical Center,Seanside,CA,688,Teaching
+HSP00154,Meyer-Klein Medical Center,Barbaraborough,OH,333,Acute Care
+HSP00155,Myers and Sons Medical Center,Colleenside,OH,368,Specialty
+HSP00156,"Bernard, Diaz and Herrera Medical Center",Jessicaland,NC,51,Teaching
+HSP00157,White PLC Medical Center,Youngville,NY,56,Children
+HSP00158,Williams-Walker Medical Center,Lake Katie,AZ,189,Community
+HSP00159,Lloyd-Aguilar Medical Center,Gonzaleztown,PA,174,Teaching
+HSP00160,Shields-Martinez Medical Center,Estradabury,OH,526,Acute Care
+HSP00161,"Bowers, Pittman and Coleman Medical Center",Hickston,GA,552,Teaching
+HSP00162,"Richard, Simon and Mays Medical Center",Lake Robinhaven,TX,851,Children
+HSP00163,Mendoza-Johnson Medical Center,Tammymouth,FL,174,Community
+HSP00164,Sellers-Jacobs Medical Center,South Johnstad,TX,195,Specialty
+HSP00165,Ortega Inc Medical Center,Mitchellchester,PA,912,Specialty
+HSP00166,Hoffman LLC Medical Center,Port Eric,TX,441,Specialty
+HSP00167,"Duffy, Chen and Lyons Medical Center",Christopherview,NC,116,Acute Care
+HSP00168,Miller-Wilson Medical Center,North Joel,NC,953,Children
+HSP00169,Nelson-Giles Medical Center,Lindaborough,CA,181,Teaching
+HSP00170,Miller-James Medical Center,West Jacobton,FL,673,Community
+HSP00171,Fitzgerald Inc Medical Center,Copelandside,PA,143,Teaching
+HSP00172,"Ramirez, Mason and Best Medical Center",Port Brittanyside,AZ,995,Children
+HSP00173,Orr-Stevens Medical Center,West Kurt,NY,715,Children
+HSP00174,King-Ramirez Medical Center,Ruthport,AZ,231,Acute Care
+HSP00175,Thompson-Mcguire Medical Center,Lake Timothy,NC,572,Teaching
+HSP00176,"Sandoval, Lee and Jordan Medical Center",Deborahhaven,PA,562,Children
+HSP00177,"Daugherty, Mcfarland and Lewis Medical Center",Victorfurt,GA,724,Teaching
+HSP00178,Valencia-Anderson Medical Center,Katherinefort,CA,161,Community
+HSP00179,"Barnes, Smith and Williams Medical Center",New Juanbury,GA,436,Specialty
+HSP00180,Walker LLC Medical Center,Orrhaven,NY,318,Community
+HSP00181,Morrison and Sons Medical Center,Hannahstad,FL,863,Teaching
+HSP00182,Murray LLC Medical Center,East Jesse,NY,634,Specialty
+HSP00183,Ortiz and Sons Medical Center,Bakerchester,OH,255,Teaching
+HSP00184,Tate Group Medical Center,New Stephanieville,IL,143,Acute Care
+HSP00185,"Frank, Holder and White Medical Center",North Michael,FL,878,Community
+HSP00186,Johnson Group Medical Center,Websterview,CA,807,Children
+HSP00187,"Smith, Sweeney and Armstrong Medical Center",Hestermouth,PA,882,Acute Care
+HSP00188,Key LLC Medical Center,New Brandonfurt,IL,756,Children
+HSP00189,Phillips LLC Medical Center,East Sandraton,NY,807,Community
+HSP00190,"Bond, Hall and Washington Medical Center",North Sara,NC,347,Community
+HSP00191,Scott-Johnson Medical Center,Shaunland,PA,588,Acute Care
+HSP00192,"Davis, Griffin and Russell Medical Center",Port Richardville,PA,809,Specialty
+HSP00193,Becker-Lewis Medical Center,Port Tammymouth,TX,418,Specialty
+HSP00194,Bell Inc Medical Center,Meyerland,CA,503,Specialty
+HSP00195,Mcgee-Hoffman Medical Center,South Ryanville,IL,405,Teaching
+HSP00196,Smith-Smith Medical Center,Dannyborough,CA,324,Community
+HSP00197,"Smith, Dillon and Paul Medical Center",Kathrynberg,PA,88,Children
+HSP00198,Gordon and Sons Medical Center,Lake Ralphmouth,NY,141,Teaching
+HSP00199,"Peterson, Melton and Smith Medical Center",Kathrynborough,TX,412,Acute Care
+HSP00200,"Mayer, Little and Peters Medical Center",Brendamouth,TX,678,Acute Care
+HSP00201,Williams-Hernandez Medical Center,Hernandezburgh,NY,869,Children
+HSP00202,"Thomas, Kennedy and Lane Medical Center",West Juliefort,FL,472,Specialty
+HSP00203,"Gould, Lopez and Martin Medical Center",New Erica,AZ,115,Teaching
+HSP00204,Jackson Group Medical Center,Leslieville,IL,79,Specialty
+HSP00205,Kim-Jordan Medical Center,North Kendra,IL,270,Specialty
+HSP00206,Gregory Ltd Medical Center,Martinezmouth,PA,103,Teaching
+HSP00207,Baxter-Jones Medical Center,Garyfurt,FL,897,Community
+HSP00208,"Alexander, Wright and Jordan Medical Center",Lewistown,OH,338,Teaching
+HSP00209,Clark-Hartman Medical Center,West Andrew,NC,688,Acute Care
+HSP00210,Freeman Ltd Medical Center,Martinezshire,NC,663,Specialty
+HSP00211,"Ward, Weaver and Frederick Medical Center",Lake Jeremy,TX,443,Teaching
+HSP00212,"Lewis, Smith and Knight Medical Center",Port Lorettahaven,OH,91,Specialty
+HSP00213,"Knapp, Carter and Booth Medical Center",Johnsontown,NC,560,Teaching
+HSP00214,Cook PLC Medical Center,Alexandrashire,CA,656,Specialty
+HSP00215,"Paul, Lane and Mendez Medical Center",North Yolanda,FL,266,Acute Care
+HSP00216,"Glover, Snyder and Collier Medical Center",Lake Connor,PA,835,Children
+HSP00217,"Fisher, Brown and Andrews Medical Center",Whitneymouth,CA,968,Specialty
+HSP00218,Jones-Campbell Medical Center,North Rachaelland,IL,836,Acute Care
+HSP00219,Johnson-Barton Medical Center,Josephberg,PA,215,Acute Care
+HSP00220,"Ballard, Montoya and Ward Medical Center",Matthewfurt,AZ,708,Specialty
+HSP00221,Smith LLC Medical Center,Sheppardberg,NC,648,Teaching
+HSP00222,Powell-Smith Medical Center,Eddiemouth,NY,596,Teaching
+HSP00223,"Yates, Khan and Johnson Medical Center",Devinview,OH,996,Children
+HSP00224,"Serrano, Gray and Lee Medical Center",Deckerberg,NY,61,Teaching
+HSP00225,"Smith, Simpson and Smith Medical Center",New Jasminebury,TX,521,Teaching
+HSP00226,Escobar LLC Medical Center,South Chad,IL,624,Acute Care
+HSP00227,"Smith, Davis and Kirk Medical Center",North Beverly,GA,277,Community
+HSP00228,"Woodard, Cline and Carrillo Medical Center",Davidmouth,GA,901,Teaching
+HSP00229,Hood PLC Medical Center,South Cynthiaton,TX,279,Acute Care
+HSP00230,Sharp-Horn Medical Center,Hillfort,PA,839,Teaching
+HSP00231,"Maxwell, Chen and Brown Medical Center",Brianburgh,PA,357,Acute Care
+HSP00232,Petty and Sons Medical Center,Rickyport,GA,816,Specialty
+HSP00233,Flores-Cochran Medical Center,Mcleanchester,TX,726,Children
+HSP00234,Murray Group Medical Center,South Richardchester,OH,846,Children
+HSP00235,Boone-Marshall Medical Center,Jacobsville,NC,199,Acute Care
+HSP00236,Rodriguez Ltd Medical Center,Jenniferville,NC,480,Teaching
+HSP00237,"Reeves, Miller and Crawford Medical Center",South Ebony,OH,302,Specialty
+HSP00238,"Gray, Kaiser and Berry Medical Center",South Jesseton,OH,238,Teaching
+HSP00239,"Cook, Garcia and Edwards Medical Center",Port Jamesside,AZ,571,Teaching
+HSP00240,Chavez-Thompson Medical Center,Jacksonmouth,NC,692,Specialty
+HSP00241,"Cook, Holloway and Moses Medical Center",Turnerbury,IL,621,Community
+HSP00242,Zimmerman Ltd Medical Center,Danielberg,GA,519,Children
+HSP00243,Cunningham and Sons Medical Center,Johnsonfort,IL,596,Acute Care
+HSP00244,"King, Ryan and Mcknight Medical Center",West Donaldside,IL,231,Community
+HSP00245,Santiago-Martinez Medical Center,South Keith,IL,263,Children
+HSP00246,"Hale, Henderson and Huang Medical Center",Jaclynmouth,CA,323,Children
+HSP00247,Woods-Holmes Medical Center,Kingside,NY,812,Acute Care
+HSP00248,Watts-Jones Medical Center,North Jameston,NY,893,Teaching
+HSP00249,Yu-Mills Medical Center,Maryview,AZ,132,Children
+HSP00250,"Warren, Conrad and Williams Medical Center",Jaredberg,FL,82,Children
+HSP00251,"Wilson, Smith and Wheeler Medical Center",North Brent,AZ,464,Children
+HSP00252,"Palmer, Parker and Gardner Medical Center",Lake Rachel,FL,597,Community
+HSP00253,Hogan Ltd Medical Center,Oliviaton,PA,749,Teaching
+HSP00254,"Garcia, Johnson and Williams Medical Center",New Heidiberg,TX,376,Acute Care
+HSP00255,Howard Inc Medical Center,Lake Jeffrey,OH,451,Community
+HSP00256,Aguilar-Garcia Medical Center,Thomasberg,AZ,453,Teaching
+HSP00257,Richard-Wilson Medical Center,Nguyenport,CA,85,Community
+HSP00258,Murphy LLC Medical Center,North Dale,GA,814,Specialty
+HSP00259,"Dawson, Chandler and Wright Medical Center",North Nichole,NC,993,Community
+HSP00260,Leonard-Jenkins Medical Center,North Kimberly,GA,982,Community
+HSP00261,Mullins LLC Medical Center,North Shawnmouth,AZ,912,Community
+HSP00262,"Duncan, Brooks and Rodriguez Medical Center",Port Haley,GA,474,Community
+HSP00263,Kent Ltd Medical Center,Lake Jerry,TX,760,Acute Care
+HSP00264,Williams-Wilson Medical Center,Youngshire,IL,837,Teaching
+HSP00265,"Pena, Sandoval and Taylor Medical Center",Johnland,IL,880,Specialty
+HSP00266,Rich-Yang Medical Center,Andersonhaven,CA,895,Children
+HSP00267,Garcia-Robinson Medical Center,North Matthew,OH,218,Acute Care
+HSP00268,"Mccormick, Hart and Hunter Medical Center",Elizabethborough,TX,627,Specialty
+HSP00269,Garcia Ltd Medical Center,Duncanmouth,IL,300,Specialty
+HSP00270,Hancock Group Medical Center,East Ravenstad,AZ,229,Teaching
+HSP00271,Cruz LLC Medical Center,Shirleyport,IL,381,Children
+HSP00272,Salazar PLC Medical Center,Juantown,NY,322,Teaching
+HSP00273,Lambert Group Medical Center,Port Sarah,TX,853,Community
+HSP00274,Fernandez Group Medical Center,Hendersonmouth,NY,110,Community
+HSP00275,Baird PLC Medical Center,Patriciaville,FL,428,Teaching
+HSP00276,Chen Inc Medical Center,Shanefort,TX,158,Specialty
+HSP00277,"Collins, Fuller and Colon Medical Center",Justinchester,FL,603,Acute Care
+HSP00278,Carlson LLC Medical Center,Kevinfurt,IL,590,Acute Care
+HSP00279,Brown Inc Medical Center,Judyside,PA,178,Community
+HSP00280,Gomez LLC Medical Center,North Juan,PA,544,Children
+HSP00281,"Patterson, Garcia and Burch Medical Center",Michelleborough,AZ,956,Community
+HSP00282,Brennan-Chandler Medical Center,North Carolport,PA,117,Specialty
+HSP00283,"Moore, Hayes and Hobbs Medical Center",South Kyle,TX,395,Acute Care
+HSP00284,Humphrey PLC Medical Center,Oscarville,PA,166,Acute Care
+HSP00285,Frazier LLC Medical Center,Bethanybury,NC,888,Teaching
+HSP00286,Beard LLC Medical Center,West Nicoleland,IL,418,Specialty
+HSP00287,Mayo Inc Medical Center,Meyerhaven,NC,251,Acute Care
+HSP00288,Larsen-Estrada Medical Center,North Julie,CA,493,Specialty
+HSP00289,"Jackson, Wilson and Torres Medical Center",Andrewchester,PA,157,Teaching
+HSP00290,West LLC Medical Center,North Dianaville,TX,487,Children
+HSP00291,Jensen Inc Medical Center,Christianview,TX,847,Children
+HSP00292,Gregory Group Medical Center,East Lisa,OH,449,Teaching
+HSP00293,Odonnell-Boyd Medical Center,Melvinton,IL,634,Acute Care
+HSP00294,Roberts-Love Medical Center,Coleside,FL,652,Teaching
+HSP00295,Smith-Oneal Medical Center,South Patriciaborough,IL,464,Children
+HSP00296,Leach Ltd Medical Center,New Kellyhaven,OH,605,Children
+HSP00297,Rhodes-Anderson Medical Center,Lake Michealburgh,NY,494,Community
+HSP00298,Forbes LLC Medical Center,Brownborough,PA,885,Teaching
+HSP00299,Hamilton-Beck Medical Center,South Jose,OH,258,Community
+HSP00300,"Elliott, Riley and Higgins Medical Center",West Alexanderstad,NC,427,Community
+HSP00301,Chan-Andrade Medical Center,Harrellside,CA,514,Acute Care
+HSP00302,Miller-Savage Medical Center,Mejiastad,NC,450,Teaching
+HSP00303,Anderson PLC Medical Center,Harrisview,NY,150,Specialty
+HSP00304,"Sanders, Castillo and Williams Medical Center",Dillonland,OH,653,Community
+HSP00305,"Williams, Stewart and Odonnell Medical Center",Lake Jonathon,PA,953,Specialty
+HSP00306,Mcbride and Sons Medical Center,South Laurenside,OH,594,Community
+HSP00307,Barrett-Williams Medical Center,West Jessica,PA,470,Children
+HSP00308,"Webster, Smith and Mcknight Medical Center",South Sallystad,NY,300,Specialty
+HSP00309,Douglas LLC Medical Center,New Hannahberg,PA,289,Community
+HSP00310,Rogers LLC Medical Center,South Jessica,CA,90,Specialty
+HSP00311,Walker Inc Medical Center,Lorihaven,PA,243,Teaching
+HSP00312,Cherry Ltd Medical Center,North Joe,TX,195,Children
+HSP00313,"Andrews, Munoz and Lawson Medical Center",Tinafurt,CA,746,Teaching
+HSP00314,Bowen Group Medical Center,North Scottton,TX,643,Children
+HSP00315,Willis Inc Medical Center,Wilsonland,NC,524,Children
+HSP00316,Johnson-Baker Medical Center,Port Natalietown,PA,215,Children
+HSP00317,Wallace-Gonzalez Medical Center,Hickmanstad,TX,810,Teaching
+HSP00318,Potter Group Medical Center,Maryview,PA,372,Children
+HSP00319,Navarro-House Medical Center,New Barbaraport,PA,897,Acute Care
+HSP00320,"Abbott, Wade and Bailey Medical Center",East Davidport,IL,327,Children
+HSP00321,Thomas Inc Medical Center,East Christopher,FL,124,Acute Care
+HSP00322,"Nguyen, Coffey and Reed Medical Center",Richardsonview,PA,255,Acute Care
+HSP00323,"Williamson, Snyder and Perez Medical Center",Port Derekmouth,NC,448,Community
+HSP00324,"Jacobson, Nichols and Rivers Medical Center",New Crystalburgh,GA,482,Acute Care
+HSP00325,Rogers Ltd Medical Center,Meyersmouth,AZ,247,Children
+HSP00326,Johnson Group Medical Center,Jasonberg,GA,79,Community
+HSP00327,Gonzalez Group Medical Center,Parkerhaven,PA,602,Specialty
+HSP00328,"Wheeler, Hall and Phillips Medical Center",Lake Debra,FL,62,Teaching
+HSP00329,Schmidt PLC Medical Center,East Richardchester,AZ,291,Teaching
+HSP00330,Murphy and Sons Medical Center,Carterfort,AZ,471,Specialty
+HSP00331,Ortiz-Hall Medical Center,Sandovaltown,FL,750,Children
+HSP00332,Myers-Alexander Medical Center,Stephenville,FL,899,Community
+HSP00333,"Ramos, Pratt and Nunez Medical Center",Nashchester,OH,569,Children
+HSP00334,"Nelson, Walker and Powell Medical Center",Port Andrewmouth,GA,501,Specialty
+HSP00335,"Lopez, Smith and Bell Medical Center",Port Davidport,NC,66,Specialty
+HSP00336,"Chen, Pierce and Miller Medical Center",Josephberg,CA,365,Community
+HSP00337,"Lyons, Clark and Chan Medical Center",Port Kyleport,TX,428,Children
+HSP00338,Jackson Group Medical Center,Port Tina,TX,251,Children
+HSP00339,Valdez-Knapp Medical Center,Hermanmouth,TX,878,Specialty
+HSP00340,Brock Ltd Medical Center,New Jenniferfurt,OH,537,Teaching
+HSP00341,"Roberts, Perry and Campbell Medical Center",Walkerton,IL,98,Specialty
+HSP00342,"Vaughn, Schneider and Nelson Medical Center",Marytown,FL,191,Children
+HSP00343,Hendrix and Sons Medical Center,New Sean,CA,938,Community
+HSP00344,"Herman, Roberts and Garcia Medical Center",Chavezborough,GA,268,Acute Care
+HSP00345,Williams-Perez Medical Center,Murraybury,CA,965,Specialty
+HSP00346,Scott and Sons Medical Center,Holttown,AZ,307,Children
+HSP00347,Vazquez-Dorsey Medical Center,Katrinahaven,NC,238,Children
+HSP00348,Roberts Group Medical Center,South Melissaton,NC,531,Community
+HSP00349,Taylor-Smith Medical Center,North Kenneth,NC,900,Community
+HSP00350,Wagner Inc Medical Center,Stephenside,PA,643,Acute Care
+HSP00351,Schwartz Ltd Medical Center,North Deannaberg,AZ,510,Children
+HSP00352,"Fitzgerald, Farmer and Garcia Medical Center",Kimberlyton,TX,720,Teaching
+HSP00353,Mitchell-Cunningham Medical Center,Walkerfort,NC,323,Acute Care
+HSP00354,Jackson LLC Medical Center,Tiffanyshire,IL,672,Teaching
+HSP00355,"Barnes, Hernandez and Tucker Medical Center",Ashleyburgh,FL,388,Children
+HSP00356,Wright-Price Medical Center,Lake Danny,CA,131,Children
+HSP00357,"Harrell, Chung and Ellison Medical Center",Timothyberg,TX,333,Teaching
+HSP00358,"Jones, Jones and Ford Medical Center",Smithport,TX,890,Specialty
+HSP00359,Hess Ltd Medical Center,New Shelby,IL,755,Children
+HSP00360,"Strickland, Morris and Ruiz Medical Center",South Patriciabury,GA,290,Teaching
+HSP00361,Fisher-Moody Medical Center,Erinborough,FL,525,Children
+HSP00362,Vega PLC Medical Center,Nancyville,TX,949,Acute Care
+HSP00363,"Turner, Rice and Deleon Medical Center",Parkerchester,AZ,687,Children
+HSP00364,Bentley-Daniels Medical Center,Elliottchester,GA,74,Teaching
+HSP00365,Smith-Chen Medical Center,Sonyamouth,NC,240,Teaching
+HSP00366,Brown and Sons Medical Center,Bennetthaven,CA,603,Children
+HSP00367,Daniels LLC Medical Center,Jonesshire,TX,482,Specialty
+HSP00368,"Kim, Vaughan and Higgins Medical Center",Perrybury,NY,904,Teaching
+HSP00369,Baird LLC Medical Center,Morrowview,PA,577,Children
+HSP00370,"Hardy, Mosley and Lowe Medical Center",Lake Corey,PA,485,Specialty
+HSP00371,"White, Lopez and White Medical Center",Nicholasborough,NY,78,Children
+HSP00372,"Lewis, Beck and Ferguson Medical Center",Michelleshire,FL,839,Acute Care
+HSP00373,Jacobson-Norris Medical Center,Lake Michelleview,IL,949,Community
+HSP00374,Johnson-Fisher Medical Center,Klineview,NC,547,Community
+HSP00375,Richardson PLC Medical Center,East Mark,NY,807,Acute Care
+HSP00376,"Johnson, Ellison and Allen Medical Center",West Timothy,NC,464,Specialty
+HSP00377,"Jenkins, Benson and Santiago Medical Center",Port Samuelchester,GA,82,Community
+HSP00378,Smith Group Medical Center,East Richardmouth,OH,639,Acute Care
+HSP00379,Moss Inc Medical Center,Heatherview,TX,298,Community
+HSP00380,"Peterson, Alexander and French Medical Center",East Keith,OH,185,Community
+HSP00381,"Molina, Brown and Walker Medical Center",Lawsonstad,AZ,974,Children
+HSP00382,Harris-Koch Medical Center,Troyside,OH,205,Teaching
+HSP00383,Obrien-Evans Medical Center,Hannahborough,IL,840,Acute Care
+HSP00384,"Jennings, Graham and Olson Medical Center",Lake Johnshire,GA,937,Specialty
+HSP00385,"Kim, Castro and Russell Medical Center",Port Donaldburgh,GA,341,Acute Care
+HSP00386,Wood-Valdez Medical Center,Howardmouth,PA,672,Acute Care
+HSP00387,"Duncan, Johnson and Cook Medical Center",New Andreaton,TX,708,Children
+HSP00388,Valdez Ltd Medical Center,New Nicole,CA,470,Acute Care
+HSP00389,Pineda Group Medical Center,East Katie,AZ,188,Teaching
+HSP00390,Hodges-Carter Medical Center,Meyertown,NY,957,Specialty
+HSP00391,Love LLC Medical Center,New Norman,NC,437,Community
+HSP00392,Ruiz PLC Medical Center,Port Jilltown,AZ,842,Specialty
+HSP00393,"Hunt, Martinez and Perkins Medical Center",Jeremyview,CA,834,Children
+HSP00394,"Parker, Baker and Riddle Medical Center",North Alyssa,IL,228,Acute Care
+HSP00395,Wells-Palmer Medical Center,Lake Yvonneborough,CA,367,Specialty
+HSP00396,Nguyen-Green Medical Center,New Susantown,PA,453,Community
+HSP00397,"Collins, Morales and Hansen Medical Center",South Claudiaburgh,GA,293,Community
+HSP00398,Vargas Ltd Medical Center,Port Christian,OH,963,Acute Care
+HSP00399,"Green, Perry and Scott Medical Center",Mariafurt,AZ,975,Specialty
+HSP00400,"Tate, Stanley and Richmond Medical Center",Lake Travis,AZ,271,Children
+HSP00401,Hurley and Sons Medical Center,Cooperstad,NY,680,Community
+HSP00402,"Baker, Riddle and Hardin Medical Center",South Gregory,FL,906,Community
+HSP00403,Kelly Ltd Medical Center,Nicholasfurt,IL,260,Teaching
+HSP00404,"Martinez, Vargas and Swanson Medical Center",Thomasstad,CA,896,Acute Care
+HSP00405,Ibarra Group Medical Center,Gutierrezside,NY,61,Community
+HSP00406,Dawson-Stevens Medical Center,Jacobsmouth,NC,987,Children
+HSP00407,Wolfe-Mckinney Medical Center,Melissashire,IL,222,Specialty
+HSP00408,Baldwin Inc Medical Center,Campbellbury,IL,439,Teaching
+HSP00409,"Wright, Serrano and Watts Medical Center",Clarkfurt,PA,843,Community
+HSP00410,Wright-Dixon Medical Center,East Katherine,IL,511,Community
+HSP00411,Duncan Inc Medical Center,Brooksville,IL,978,Acute Care
+HSP00412,Davis Inc Medical Center,North Jaredburgh,OH,578,Specialty
+HSP00413,"Richardson, Parker and Garcia Medical Center",West Donald,NC,52,Children
+HSP00414,Malone and Sons Medical Center,Davidmouth,NY,467,Children
+HSP00415,Stephens-Davis Medical Center,New Carolside,PA,880,Teaching
+HSP00416,"Harrington, Clark and Patel Medical Center",West Paulview,CA,930,Specialty
+HSP00417,Barnes-Barry Medical Center,Warrenport,NY,488,Specialty
+HSP00418,Hernandez Ltd Medical Center,Port Brett,GA,277,Specialty
+HSP00419,Conner-Flores Medical Center,New Patrickport,AZ,777,Community
+HSP00420,Page LLC Medical Center,New Alejandra,PA,444,Specialty
+HSP00421,May-Cummings Medical Center,Ashleyton,PA,181,Acute Care
+HSP00422,Hansen and Sons Medical Center,Port Jamesmouth,CA,258,Children
+HSP00423,"Wiley, Paul and Snyder Medical Center",Lake Timothyfurt,FL,504,Children
+HSP00424,"Olson, Bradford and Nelson Medical Center",Port Bryan,AZ,259,Children
+HSP00425,"Townsend, Coleman and Leon Medical Center",East Jeremy,OH,886,Children
+HSP00426,Stewart Inc Medical Center,Grahamshire,CA,962,Specialty
+HSP00427,"Baker, Murphy and Garcia Medical Center",North Monique,TX,377,Community
+HSP00428,Allen-Long Medical Center,South Joshua,CA,827,Children
+HSP00429,"Stephens, Thompson and Parker Medical Center",Ingramport,OH,209,Teaching
+HSP00430,"Cooper, Andrews and Coleman Medical Center",North Roger,GA,144,Specialty
+HSP00431,Hubbard and Sons Medical Center,Lake Rachelbury,NC,708,Teaching
+HSP00432,Noble-Cabrera Medical Center,Port Joannafort,NY,233,Children
+HSP00433,Wade and Sons Medical Center,Josephbury,OH,88,Teaching
+HSP00434,Barajas PLC Medical Center,North William,NC,780,Community
+HSP00435,Edwards Inc Medical Center,Martinezmouth,NC,990,Community
+HSP00436,Ward-Perez Medical Center,Port Robinborough,PA,756,Community
+HSP00437,Fischer Group Medical Center,Melanieshire,NY,62,Teaching
+HSP00438,"Dunn, Trevino and Juarez Medical Center",West Scott,PA,373,Children
+HSP00439,Burns Ltd Medical Center,Stevenfort,CA,528,Teaching
+HSP00440,"Lee, Williams and Johnson Medical Center",Marcborough,FL,350,Specialty
+HSP00441,Watts PLC Medical Center,New Jennifer,PA,414,Children
+HSP00442,Thompson Ltd Medical Center,Lake Markberg,PA,455,Community
+HSP00443,Washington Group Medical Center,Ericashire,CA,713,Specialty
+HSP00444,Smith-Bailey Medical Center,Port Stacey,NY,874,Children
+HSP00445,"Park, Chapman and Ware Medical Center",East Joshuaberg,NC,248,Acute Care
+HSP00446,"Foster, Vasquez and Hall Medical Center",Port Alexander,CA,664,Community
+HSP00447,"Mccoy, Sharp and Graham Medical Center",Port Christopherfurt,AZ,95,Children
+HSP00448,Huff LLC Medical Center,Perezburgh,TX,814,Children
+HSP00449,"Buchanan, Newton and Elliott Medical Center",Edwardsport,AZ,481,Specialty
+HSP00450,Hall-Mendoza Medical Center,Miguelmouth,IL,821,Acute Care
+HSP00451,"Alexander, Warner and Brown Medical Center",East Nicholasshire,AZ,707,Teaching
+HSP00452,Lopez-Garcia Medical Center,Port Patricia,PA,391,Children
+HSP00453,Sims PLC Medical Center,Lake Carlosburgh,NC,398,Specialty
+HSP00454,Edwards-Ross Medical Center,Lake Kelly,TX,152,Children
+HSP00455,Chapman-Reyes Medical Center,East Tracymouth,TX,154,Community
+HSP00456,"Hammond, Morales and Moss Medical Center",Reesebury,GA,642,Children
+HSP00457,Burke and Sons Medical Center,Jonesside,IL,583,Community
+HSP00458,Ross LLC Medical Center,Chavezland,OH,616,Specialty
+HSP00459,Hernandez Inc Medical Center,Barryport,IL,933,Teaching
+HSP00460,Fisher-Vance Medical Center,Joanland,AZ,107,Acute Care
+HSP00461,Diaz-Patel Medical Center,West Christina,PA,552,Community
+HSP00462,"Garcia, Harris and Lawrence Medical Center",Ochoastad,OH,515,Acute Care
+HSP00463,Hendrix-Kent Medical Center,Randystad,GA,725,Community
+HSP00464,Schneider and Sons Medical Center,Huntborough,FL,239,Acute Care
+HSP00465,"Gonzales, Marquez and Matthews Medical Center",South Samuelside,AZ,75,Acute Care
+HSP00466,Hardy and Sons Medical Center,Reedmouth,CA,594,Children
+HSP00467,Brown-Clark Medical Center,Obrientown,CA,245,Children
+HSP00468,Williams-Franco Medical Center,West Philip,NY,327,Specialty
+HSP00469,Wells PLC Medical Center,East Julieside,GA,521,Teaching
+HSP00470,Buck-Whitehead Medical Center,Robertstown,NY,105,Children
+HSP00471,Jones Inc Medical Center,Taylorton,TX,108,Teaching
+HSP00472,"Wood, Castro and Griffin Medical Center",Fernandezfort,GA,536,Children
+HSP00473,"Soto, Norris and Stevens Medical Center",West Amandaborough,NY,943,Community
+HSP00474,Green-Santos Medical Center,Port Bill,PA,471,Children
+HSP00475,Smith-White Medical Center,Mccoyberg,GA,597,Children
+HSP00476,"Thomas, Lee and Norton Medical Center",North Timothyport,IL,852,Acute Care
+HSP00477,Martin-Burns Medical Center,Davidfurt,TX,761,Teaching
+HSP00478,Sanchez Ltd Medical Center,Port Eric,NY,670,Specialty
+HSP00479,Williams and Sons Medical Center,Brianaland,GA,963,Acute Care
+HSP00480,"Miller, Nash and Douglas Medical Center",Lake Philipfort,IL,297,Community
+HSP00481,"Jacobs, Porter and Phillips Medical Center",East Shannonhaven,OH,741,Specialty
+HSP00482,Bailey-Choi Medical Center,Amberport,PA,553,Community
+HSP00483,"Benson, Arias and Grant Medical Center",Lake Andre,FL,967,Specialty
+HSP00484,Boyd and Sons Medical Center,Port Stephanie,AZ,610,Community
+HSP00485,"Jarvis, Schaefer and Suarez Medical Center",Port Heidichester,TX,310,Teaching
+HSP00486,"Miller, Ruiz and Collins Medical Center",West Rebeccatown,IL,928,Community
+HSP00487,Carter LLC Medical Center,Barneschester,TX,299,Community
+HSP00488,Potter Inc Medical Center,Jessicafort,NC,460,Teaching
+HSP00489,Payne-Nguyen Medical Center,Amyhaven,FL,745,Community
+HSP00490,Gomez-Aguilar Medical Center,Port Leslietown,NC,478,Specialty
+HSP00491,Brown PLC Medical Center,Andersonmouth,FL,392,Children
+HSP00492,Harris-Francis Medical Center,Sherylbury,NC,713,Acute Care
+HSP00493,Walker Inc Medical Center,North Brianbury,NC,113,Acute Care
+HSP00494,Mccarthy-Martinez Medical Center,Barrymouth,CA,750,Specialty
+HSP00495,Lewis-Pierce Medical Center,East Richardborough,IL,877,Community
+HSP00496,Hernandez PLC Medical Center,Michaelfort,AZ,966,Specialty
+HSP00497,Robinson Group Medical Center,Kennethtown,FL,279,Community
+HSP00498,"Davis, Bean and Mason Medical Center",Sarafort,GA,172,Acute Care
+HSP00499,"Ross, Richardson and Saunders Medical Center",Port Franciscoview,GA,304,Children
+HSP00500,Mitchell Inc Medical Center,South Tina,NC,661,Children
